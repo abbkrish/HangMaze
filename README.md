@@ -1,6 +1,6 @@
 # HangMaze
 Maze hangman game using verilog and simulated on an FPGA
 
-https://github.com/abbkrish/HangMaze/blob/master/IMGP0002.JPG
+![alt tag](https://raw.githubusercontent.com/abbkrish/HangMaze/master/IMGP0002.JPG)
 
-https://github.com/abbkrish/HangMaze/blob/master/IMGP0003.JPG
+![alt tag](https://raw.githubusercontent.com/abbkrish/HangMaze/master/IMGP0003.JPG)
